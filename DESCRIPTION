@@ -1,0 +1,16 @@
+Package: PreliminaryAnalysis
+Type: Package
+Title: Statistical operations for a preliminary analysis of a phenomenon
+Version: 0.1.0
+Author: Andrea Frattini
+Maintainer: <andrea.frattini2@studenti.unimi.it>
+Description: This simple package computes some basic statistical operations (like mean, variance, and so on)
+     that are intresting for a preliminary analysis of a phenomenon. In particular, it is useful for an analysis of
+     the development of nation's population throught years. In this package there is a simple dataset which
+     contains the total population of Italy, Germany and France during the period from 1970 to 2018.
+     This dataset is used to load the shiny app (to run it, look at the help page of this package).
+License: What license is it under?
+Encoding: UTF-8
+LazyData: true
+Imports: plotly, shiny, dplyr
+RoxygenNote: 7.0.2
