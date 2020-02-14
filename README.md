@@ -28,7 +28,7 @@ This function allows the user to get the complete dataset.
 ```
 PreAn()
 ```
-This will load the Shiny Application
+This will load the Shiny Application with my dataset.
 
 ## Documentation
 
