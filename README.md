@@ -2,7 +2,7 @@
 
 # Preliminary Analysis Package
 
-This package allows user to compute some basical statistical operations (like mean, variance, standard deviation, maximum value and its position, minimum value and its position, correlation and simple regression) of the total population of Italy, Germany and France in the period from 1970 to 2018, all with the function "analysis". Furthermore, this package can plot some graphs that are useful for a preliminary analysis of the phenomenon of population's development, thanks to the function PreAn.
+This package allows user to compute some basical statistical operations (like mean, variance, standard deviation, maximum value and its position, minimum value and its position, correlation and simple regression) of the total population of Italy, Germany and France in the period from 1970 to 2018, all with the function "analysis(x,y)". Furthermore, this package can plot some graphs that are useful for a preliminary analysis of the phenomenon of population's development, thanks to the function "PreAn()".
 ## Installation 
 
 Install the R package 
